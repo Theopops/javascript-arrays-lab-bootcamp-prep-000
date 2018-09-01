@@ -1,1 +1,3 @@
-function destruc
+function destructivelyAppendKitten(name) {
+  return 
+}
